@@ -1,0 +1,16 @@
+{
+  "Cube/0": {
+    "task_id": "Cube/0",
+    "prompt": "You are solving a Rubik's cube. Here is the current state:\n         [b][g][b]\n         [r][y][o]\n         [g][o][w]\n[o][y][w][o][y][g][r][w][o][w][r][y]\n[g][r][g][w][g][o][b][o][w][b][b][o]\n[o][w][b][r][y][g][r][b][r][b][y][y]\n         [w][g][y]\n         [r][w][r]\n         [g][b][y]\nSelect the next position from the following options: L, L', R, R', U, U', D, D', F, F', B, B'. Make sure to think step by step about your response, then return the next position at the end (e.g., My next move is NEXT_MOVE).",
+    "entry_point": "none",
+    "canonical_solution": "none",
+    "test": "none"
+  },
+  "Cube/1": {
+    "task_id": "Cube/1",
+    "prompt": "You are solving a Rubik's cube. Here is the current state:\n         [y][y][b]\n         [y][y][b]\n         [y][y][b]\n[r][r][r][g][g][y][o][o][o][w][b][b]\n[r][r][r][g][g][y][o][o][o][w][b][b]\n[r][r][r][g][g][y][o][o][o][w][b][b]\n         [w][w][g]\n         [w][w][g]\n         [w][w][g]\nSelect the next position from the following options: L, L', R, R', U, U', D, D', F, F', B, B'. Make sure to think step by step about your response, then return the next position at the end (e.g., My next move is NEXT_MOVE).",
+    "entry_point": "none",
+    "canonical_solution": "none",
+    "test": "none"
+  }
+}

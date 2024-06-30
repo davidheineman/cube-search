@@ -1,0 +1,82 @@
+.selected {
+  box-shadow: 0px 0px 0px 2px #e73324, 0px 0px 20px 2px #e73324 !important;
+}
+
+.react-flow__node {
+  border-radius: 6px;
+  border-width: 0px;
+}
+
+.react-flow__node:not(.selected):hover {
+  box-shadow: 0 0 0 0.5px #1a192b !important;
+}
+
+/* Enable if you
+want bigger handles:
+.react-flow__handle {
+  width: 20px;
+  height: 7px;
+  border-radius: 5px;
+} */
+
+.markdown-wrapper h1,
+.markdown-wrapper h2,
+.markdown-wrapper h3,
+.markdown-wrapper h4,
+.markdown-wrapper h5,
+.markdown-wrapper h6 {
+  font-size: inherit;
+  font-weight: 500;
+}
+
+.markdown-wrapper blockquote {
+  margin: revert;
+}
+
+.markdown-wrapper h1 {
+  font-size: 2em;
+}
+
+.markdown-wrapper h2 {
+  font-size: 1.5em;
+}
+
+.markdown-wrapper h3 {
+  font-size: 1.17em;
+}
+
+.markdown-wrapper h4 {
+  font-size: 1em;
+}
+
+.markdown-wrapper h5 {
+  font-size: 0.83em;
+}
+
+.markdown-wrapper h6 {
+  font-size: 0.67em;
+}
+
+.markdown-wrapper hr {
+  background-color: currentColor;
+  height: 2px;
+  border: 0px;
+  border-radius: 6px;
+}
+
+.node-info h4 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.tab-panel-full-width {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.eval-list li span {
+  margin-left: 1.5rem;
+}
+.eval-list li span:first-of-type {
+  margin-left: 0;
+}
