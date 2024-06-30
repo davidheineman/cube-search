@@ -1,8 +1,0 @@
-{
-    "routes": [
-        {
-            "src": "/execute",
-            "dest": "/api/execute.py"
-        }
-    ]
-}

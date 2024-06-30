@@ -1,4 +1,0 @@
-- Puzzle cube implementation taken from (https://github.com/jasonrute/puzzle_cube)
-- Difficult start positions: https://www.cube20.org/distance20s/
-- See: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9866889/
-- Also helpful? https://github.com/pglass/cube/blob/main/rubik/solve.py

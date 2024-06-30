@@ -9,7 +9,6 @@ from src.cube_utils import BatchCube
 import numpy as np
 
 app = Flask(__name__)
-# CORS(app, resources={r"/*": {"origins": "http://localhost:5174"}}) 
 CORS(app)
 
 executor = ThreadPoolExecutor(max_workers=5)
